@@ -1,4 +1,4 @@
-# PythonSubnet
+# Python Subnet Calculator
 
 A Python bot that tells a user-given IP address's network address, address range, broadcast, and next address in line
 also prompt for subnet mask in slash notation, eg: /24
