@@ -1,6 +1,6 @@
 # PythonSubnet
 
-create a python project to tell a user-given IP address's network address, address range, broadcast, and next address in line
+A Python bot that tells a user-given IP address's network address, address range, broadcast, and next address in line
 also prompt for subnet mask in slash notation, eg: /24
 subnets have to be between 0 and 31
 IP decimal octets must be between 0 and 255
