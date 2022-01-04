@@ -14,6 +14,8 @@ The website isn't always perfect, though, so those I needed to double check I wr
 2. Ask for a subnet mask (will make its own, similar to 1.)
 3. Calculates Network address, First Host address, Last Host address, Broadcast address, and the Next subnet
 4. Store calculated values in a database for withdrawal in case a repeated ip address is entered
+5. ADDITION 1/2022 Added an option to loop calculate random addresses and masks
+6. ADDITION 1/2022 Added option to keep the same subnet mask when looping
 
 ### Example
 ```python
